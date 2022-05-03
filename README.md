@@ -2,7 +2,7 @@
 
 ### :dizzy: Connect on Networks
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/aryank21/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
   </a>&ensp;
