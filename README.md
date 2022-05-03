@@ -18,7 +18,7 @@
   </a>&ensp;
   
     <a href="http://aryankaushik.tech/">
-    <img width="30px" src="h https://img.icons8.com/ios/344/domain.svg" target="_blank"/>
+    <img width="30px" src="https://img.icons8.com/ios/344/domain.svg" target="_blank"/>
   </a>&ensp;
  
 
