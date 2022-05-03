@@ -1,9 +1,5 @@
 ### Hi there 👋
-[![Profile Views](https://komarev.com/ghpvc/?username=yashovardhan)](https://yashovardhan.dev)
-[![Stars](https://img.shields.io/github/stars/yashovardhan)](https://yashovardhan.dev)
-[![Twitter](https://img.shields.io/twitter/follow/yashovardhan)](https://twitter.com/yashovardhan)
-[![Watchers](https://img.shields.io/github/watchers/yashovardhan/yashovardhan)](https://yashovardhan.dev)
-<hr>
+[![Profile Views](https://komarev.com/ghpvc/?username=aryankaushik-git)](http://aryankaushik.tech/)
 
 
 
