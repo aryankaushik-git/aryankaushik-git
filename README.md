@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![1](https://github.com/aryankaushik-git/aryankaushik-git/blob/main/Assets/Cover.png)
+
 ### :dizzy: Connect on Networks
 
 <div align="left">
