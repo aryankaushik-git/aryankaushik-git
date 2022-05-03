@@ -18,7 +18,7 @@
   </a>&ensp;
   
     <a href="http://aryankaushik.tech/">
-    <img width="30px" src="![image](https://user-images.githubusercontent.com/37568514/166413735-d7a4fdff-2d4a-4c36-a89a-5ad5d418e8f8.png)" target="_blank"/>
+    <img width="30px" src="https://user-images.githubusercontent.com/37568514/166413735-d7a4fdff-2d4a-4c36-a89a-5ad5d418e8f8.svg" target="_blank"/>
   </a>&ensp;
  
 
