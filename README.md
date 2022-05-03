@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi I'm Aryan 👋
 
 ![1](https://github.com/aryankaushik-git/aryankaushik-git/blob/main/Assets/Cover.png)
 
